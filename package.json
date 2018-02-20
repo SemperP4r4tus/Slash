@@ -1,19 +1,17 @@
 {
-  "name": "slashbot",
+  "name": "slash",
   "version": "1.0.0",
-  "description": "A multi",
+  "description": "oof",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/swagboyz/Slashbot.git"
-  },
   "author": "SemperP4r4tus",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/swagboyz/Slashbot/issues"
-  },
-  "homepage": "https://github.com/swagboyz/Slashbot#readme"
+  "dependencies": {
+    "discord.js": "^11.3.0",
+    "opusscript": "0.0.6",
+    "weather.js": "^0.1.0",
+    "ytdl-core": "^0.20.1"
+  }
 }
