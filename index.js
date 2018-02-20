@@ -1,6 +1,6 @@
 const Discord = require("discord.js");
 
-const SLASH = "NDExMDM4NTczNjE0MzMzOTYy.DWyD8A.JXmRxNuWP2WX7rm28B2pISxTX7A";
+const SLASH = "TOKEN_HERE";
 const PREFIX = "//";
 
 
